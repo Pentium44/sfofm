@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>PHPFM</title>
+	<title>sfofm</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<link rel="stylesheet" href="webhoststyle.css" type="text/css">
 	<script src="data/jquery.1.7.js"></script>
