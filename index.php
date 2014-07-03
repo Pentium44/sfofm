@@ -27,10 +27,8 @@ print <<<EOD
 			<tr>
 				<td>
 					<div id="packages">
-					<b>Web Package 1</b><br>
 						Web Space: $webspace<br>
 						Max Upload: $max_upload<br>
-						Upload Methods: Online Upload<br>
 					</div>
 				</td>
 			</tr>
