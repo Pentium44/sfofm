@@ -1,0 +1,11 @@
+--- sfofm
+sfofm (Simple FOSS online file manager) is a file manager written in PHP. 
+This software is released under the GPLv3.
+
+--- Usage: 
+*Extract sfofm anywhere and chmod users/ 777. 
+*Modify config.php to your standards.
+*connect to sfofm from any web browser.
+
+--- Licensing and copyright:
+(C) Copyright 2014 Chris Dorman - Some rights reserved

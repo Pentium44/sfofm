@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>PHPFM</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link rel="stylesheet" href="webhoststyle.css" type="text/css">
+	<script src="data/jquery.1.7.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<div class="navbar">
+	<a href="index.php">Index</a><a href="register.php">Register</a><a href="login.php">Login</a>
+</div>
+<br>
+<div class="contain">
+	

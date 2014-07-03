@@ -1,0 +1,4 @@
+</div>
+<div class="footer">sfofm, 2014 &bull; <a href="terms.php">Terms Of Service</a></div>
+</body>
+</html>
